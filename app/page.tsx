@@ -38,7 +38,7 @@ export default function Page() {
                                         Welcome to my portfolio
                                     </span>
                                     <h2 className="text-4xl font-bold mb-4 drop-shadow-2xl bg-clip-text text-transparent bg-gradient-to-r from-white via-gray-100 to-gray-200 animate-pulse">
-                                        Hello, I'm{' '}
+                                        Hello, I&apos;m{' '}
                                         <span className="relative">
                                             <span className="absolute -inset-1 bg-gradient-to-r from-pink-500 to-purple-500 blur opacity-25"></span>
                                             <span className="relative text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-purple-400">
