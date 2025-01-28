@@ -1,0 +1,135 @@
+PAVAN KUMAR RAGHAVENDRA BOBBILI
+Manikonda									Raghavendra.bobbili@gmail.com
+Hyderabad 									+91-7702723725
+PROFESSIONAL SUMMARY
+A Full Stack Developer with 8+ years of experience with a strong background in delivering high-quality, scalable web applications. Skilled in Angular, TypeScript, and AWS, with a passion for staying up-to-date on the latest technologies. Seeking a challenging role that allows me to utilize my skills and continue learning and growing
+RELEVANT SKILLS SUMMARY
+
+
+	•	JavaScript		
+	•	AngularJS
+	•	React
+	•	Node JS
+	•	Express JS
+	•	Angular
+	•	RESTfUL API 
+	•	AWS
+	•	Micro Services 
+	•	Type Script
+	•	Splunk
+	•	MONGO DB
+	•	MYSQL
+	•	Python
+	•	Shell Scripting
+	•	Docker
+	•	jenkins
+	•	GraphQL
+
+
+
+PROJECTS
+SSC & Eze 												Hyderabad Senior Software Engineer								   	 OCT-2019-Present
+
+
+Investment managers of all sizes should have access to the latest information and be able to use it to scale operations while keeping costs low. Eze Eclipse is designed from the ground up to enable the most effective, reliable and secure operations infrastructure. Eze Eclipse, a born-in-the-cloud investment solution, supports your full investment process in a single unified platform through a secure web browser interface In Eclipse, Post trade Operations (PTO) is a module which facilitates fund managers to send their investment details/transactions to third parties like Custodians and Executing Brokers.
+
+	•	Transforming the Trade Details in our system to the Custodian Desired Format through ETL
+	•	Sending the EOD trade Details to the Custodians either by File or API. 
+	•	Schedule a file/API release feature to automate the file release process 
+	•	Custom mapping is a feature that helps user to configure ETL Mappings from UI
+	•	Trading Day Rollover is a feature the help the user to configure the EOD trade time 
+
+Responsibilities:
+	•	Proactively learned and changed my approach to deliver ETLs for quick onboarding of clients within the timeframe and became a key member of the team.
+	•	Developed challenging requirements received from clients and took ownership of delivering multiple features accurately and on time.
+	•	I extensively used Dark Launch and feature toggles while deploying any new feature to production to limit the blast radius in case of any issues.
+	•	I was involved in breaking up the legacy monolith into 9 different microservices and went the extra mile in handling production issues and unblocking clients with go-live dates. In a short time, I became a crucial team member and the point of contact for any queries on functional workflows.
+	•	I onboarded teammates and gave knowledge transfer sessions on workflows and the functional domain of the product. I also mentored new hires and provided knowledge transfer sessions for better onboarding.
+	•	I collaborated well with developers, the onsite team, and product owners to stay current on product features and intended functionality. I implemented Dark Launch and Feature Toggles while migrating the monolith to microservices.
+	•	I set up alerts and dashboards in Splunk to track user behaviour and errors in production.
+	•	I was responsible for and involved in sprint and release planning for PTO.
+
+
+
+Idea Spark Solutions Pvt Ltd									    Hyderabad 
+Project  1: Falcon Dive	`						May-1-2017 to May-31-2019
+
+Description : This product helps the organizations to analyze their business and preload with KPI dash boards, where management can easily identify the business overview. This product also helps in improving the business through campaign automation. As part of this product there are multiple features
+	•	Visual Customer Extraction
+	•	Customer Data Distribution with multiple techniques
+	•	Customer Segmentation with defined constraints
+	•	Target Selected Segments for Campaigning 
+	•	Assigning Offer/Bonus Codes to Segments
+	•	ROI Building though Control and Target configuration
+	•	Integrate with multiple dispatch mechanisms
+	•	Schedule the campaign
+	•	Custom Dashboard building
+	•	AI generated Segments for better campaign performance
+	•	 Campaign Performance measuring logic
+	•	Predicted ROI ( Data Analytical Models applied)
+	•	Run time Alerts
+	•	Dynamic Data Insights
+Responsibilities:
+	•	Understanding of architecture and design across all systems
+	•	Actively implemented  industry-wide technology trends and best practices
+	•	Working as an individual contributor in end to end features development. 
+	•	Responsible and involved in Sprint and Release planning  
+	•	Working on service discovery tools like Ngnix. 
+	•	Setting up git repository with gitlab 
+	•	Log Mentoring with Stack Driver  
+	•	Mentoring new hires and taking KT sessions for better on-boarding.
+	•	Integrating with node Miler For sending emails 
+	•	Implemented Scheduler with agenda JS for scheduling campaigns  
+
+Project  2:  Express Loan
+Description :  Express Loan is an easy to use Loan application with minimal customer interaction Minimal Documentation , Easy Approval , Multipurpose in nature where in the customer can apply the lone by uploading the customer Aadhaar card (UIDAI) or pan card to get the loan approval 
+The following are the Features
+	•	Text Extraction form Uploaded Images i.e. Aadhaar Card and Pan Card using CNN
+	•	Aadhaar and Pan Verification with  https://www.aadhaarapi.io
+	•	Integrating the SMS Notification with Twilio and WhatsApp
+	•	Integrating Email Notification with node Mailer with Google SMTP 
+Responsibilities:
+	•	Setting up pipelines for continuous integration and deployment into GCP 
+	•	Creating stories from EPICS. 
+	•	Integrated with 3rd party API for aadhaar verification 
+	•	Loading the pre-trained model using thee tensorflow js 
+	•	Send emails with node mailer
+
+
+
+M3bi India Pvt Ltd										         Hyderabad 
+Project 1:ECR								10-NOV-2014 to 31-March 2017
+Description: ECR is a Smart E-learning hub for competitive exams where in the video are is pulled from different video source through YouTube and Sprout Videos  API and which will be managed by the admin panel 
+The following are the Features
+	•	Third party Login using google and Facebook third party API
+	•	YouTube and Sprout video source API integration 
+	•	Video Management form admin panel
+	•	User Activity dashboard in admin panel 
+	•	Student to student chart with peer JS 
+	•	Live Streaming form Teacher to Students   
+	•	Live Streaming Event Management 
+	•	Live news Feed using google-news-api
+ Responsibilities:
+	•	Developed a video streaming service within node 
+	•	Integrated videoglur2 for video streaming in front end 
+	•	 Integrated with YouTube API and sprout video API
+	•	Created admin panel to upload video 
+	•	Integrated passport js for third party login 
+	
+
+
+Project 2:	PLUTO
+Client: American Express
+Description : PLUTO is a web-interface for American Express Credit Card Holders which will provide two important features which are plan-it and pay-itfeature to the card holders through an interactive web interface. Whenever a customer  done a transaction then he/she could convert that transaction amount into monthly plans. the customer will therefore choose his/her eligible monthly plan duration Plan-It feature creation includes different kind of reusable modules i.e. Feature eligibility, Account Eligibility, Transaction Eligibility. All these modules are used to calculate the risk at account level , transaction level based on the risk the eligible plan durations is given to the customer. The Risk calculation is done on the Big data platform (BDP) through a daily oozie coordinator job and after the calculation of the risk the data will be loaded to HBase so it can be available in real-time.
+The following are the Features
+
+	•	Pay-It: this is a straight forward feature that enables the Credit Card holders to pay their Credit Card Debt .
+
+	•	Plan-It : this  feature enables the user to convert their Credit Card Debt to a monthly EMI (Equated monthly instalments) the eligibility Criteria is Calculated in the backend System by conceding different parameters  such as  Feature eligibility, Account Eligibility, Transaction Eligibility which are pre Existing API that will decide if the customer is eligible for EMI or not and also the duration that the customer is eligible 
+
+Responsible for reviewing the code and suggest the team with proper coding standards and helping the team technically and make sure of team quality deliverables within timelines (Sprint Cycle)
+Responsibilities:
+	•	Developed express end point for fetching risk analysed data from HBase 
+	•	Integrated with HBase for getting the real time data 
+	•	Integrating the with Big Data hive for querying data
+	•	Developed UI for Pay-It and Plan-It 
